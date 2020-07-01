@@ -509,3 +509,4 @@ ls --color=auto
 cd ..
 rm images/background.jjpg
 rm images/background.jpg
+rmdir images
