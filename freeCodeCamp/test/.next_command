@@ -262,3 +262,5 @@ clear
 your_command > output.txt
 ls --color=auto
 cd src
+ls --color=auto
+pwd
