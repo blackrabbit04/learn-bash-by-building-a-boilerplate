@@ -73,3 +73,5 @@ pwd
 ls --color=auto
 cd ..
 ls --color=auto
+more package.jsno
+more package.json
