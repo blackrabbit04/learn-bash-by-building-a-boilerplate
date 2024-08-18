@@ -77,3 +77,5 @@ more package.jsno
 more package.json
 clear
 __vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+ls --color=auto
