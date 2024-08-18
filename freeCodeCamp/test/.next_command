@@ -261,3 +261,4 @@ cd has
 clear
 your_command > output.txt
 ls --color=auto
+cd src
