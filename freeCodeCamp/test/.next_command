@@ -317,3 +317,5 @@ ls --color=auto
 index.js
 touch index.js
 touch .gitignore
+__vsc_prompt_cmd_original
+ls --color=auto
