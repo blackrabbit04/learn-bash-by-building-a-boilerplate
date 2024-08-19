@@ -373,3 +373,4 @@ mkdir client/src
 move index.html client/src
 mv index.html client/src
 find
+mv index.js client/src
