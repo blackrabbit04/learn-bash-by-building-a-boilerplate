@@ -331,3 +331,4 @@ touch lato.font
 toouch menlo.font
 touch menlo.font
 ls --color=auto
+touch CodeAlly.svg
