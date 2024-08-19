@@ -330,3 +330,4 @@ touch roboto.font
 touch lato.font
 toouch menlo.font
 touch menlo.font
+ls --color=auto
