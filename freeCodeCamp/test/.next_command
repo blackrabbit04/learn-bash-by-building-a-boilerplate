@@ -498,3 +498,6 @@ ls --color=auto
 ls --color=auto
 find
 find
+rmdir website
+ls --color=auto
+rmdir images
