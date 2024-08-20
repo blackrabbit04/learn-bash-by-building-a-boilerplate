@@ -414,3 +414,4 @@ find client
 find -help
 help
 find --help
+find -name index.html
