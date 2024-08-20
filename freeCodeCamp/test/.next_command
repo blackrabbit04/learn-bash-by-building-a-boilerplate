@@ -411,3 +411,6 @@ ls --color=auto
 cd website
 ls --color=auto
 find client
+find -help
+help
+find --help
