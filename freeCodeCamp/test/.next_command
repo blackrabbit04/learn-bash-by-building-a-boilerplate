@@ -417,3 +417,12 @@ find --help
 find -name index.html
 find -name styles.css
 find -name src
+ls --color=auto
+ls --color=auto -l
+find -name website
+find website
+find website
+find website
+pwd
+find website
+find
